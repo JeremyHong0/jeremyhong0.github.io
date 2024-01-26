@@ -1,3 +1,12 @@
+- title: Gameplay Programmer, Tiny Zoo
+  from: Jul. 2023
+  to: Current
+  description: |
+    Worked on created technical demo with using Unreal Engine5 
+    Created custom character movement component that inherits from character movement component.
+    Collaborated with game designer and implemented logics and animations for character's wall climbing and mantle movements in custom character movement component in C++ based on design documents. 
+
+
 - title: Teaching Assistant, DigiPen Institute of Technology
   from: Aug. 2022
   to: Dec. 2022
