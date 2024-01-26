@@ -1,0 +1,17 @@
+- name: C/C++
+  color: light
+
+- name: C#
+  color: light
+
+- name: Python
+  color: light
+
+- name: JavaScrpit
+  color: light
+
+- name: GLSL
+  color: light
+
+- name: HTML/CSS
+  color: light
