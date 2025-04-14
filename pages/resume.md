@@ -3,5 +3,5 @@ layout: page
 title: RESUME
 permalink: /resume/
 weight: 6
-external_url: https://resume.creddle.io/resume/6kgcau4qh9r
+external_url: https://tinyurl.com/5aevxw4r
 ---
