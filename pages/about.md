@@ -36,6 +36,6 @@ I am software engineer/game developer.
 <br/>
 <br/>
 
-{% include elements/button.html link="https://resume.creddle.io/resume/6kgcau4qh9r" text="RESUME" block=true %}
+{% include elements/button.html link="https://tinyurl.com/5aevxw4r" text="RESUME" block=true %}
 
 <br/>
