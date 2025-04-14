@@ -9,21 +9,21 @@
   from: Jul. 2023
   to: Apr. 2024
   description: |
-    - Worked on creating a technical demo using Unreal Engine 5.\
-    - Created a custom character movement component that inherits from Character Movement Component.
-    - Collaborated with the game designer to implement logic and animations for wall climbing and mantle movement.
+    - Worked on creating a technical demo using Unreal Engine 5.<br/>
+    - Created a custom character movement component that inherits from Character Movement Component.<br/>
+    - Collaborated with the game designer to implement logic and animations for wall climbing and mantle movement.<br/>
     - in the custom movement component in C++ based on design documents.
 
 - title: Teaching Assistant, DigiPen Institute of Technology
   from: Aug. 2022
   to: Dec. 2022
   description: |
-    - Collaborated with the instructor to support students with projects and graded assignments for CS300 (Advanced Computer Graphics).
+    - Collaborated with the instructor to support students with projects and graded assignments for CS300 (Advanced Computer Graphics).<br/>
     - Created sample demos for student projects using C++ and OpenGL.
 
 - title: Staff Sergeant, ROK Army
   from: 2018
   to: 2021
   description: |
-    - Maintained the defense communication network with Cisco IOS.
+    - Maintained the defense communication network with Cisco IOS.<br/>
     - Operated and protected army cyberspace as part of the Computer Emergency Response Team (CERT).
